@@ -19,7 +19,7 @@ jobs:
       - name: Build contributions section
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: Fardin7798
+          GH_USER: SrkianFardin25
         run: python scripts/contributions.py
       - name: Commit if changed
         run: |

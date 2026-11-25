@@ -18,7 +18,7 @@ import urllib.parse
 import urllib.request
 from xml.sax.saxutils import escape
 
-USER = os.environ.get("GH_USER", "Fardin7798")
+USER = os.environ.get("GH_USER", "SrkianFardin25")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 TOP_REPOS = 3
 RECENT = 4

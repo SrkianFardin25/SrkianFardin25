@@ -1,59 +1,61 @@
 # Contributions
 
-Pull requests by [@Fardin7798](https://github.com/Fardin7798) to other people's repositories. Updated automatically every day. Last updated: 12 Nov 2026.
+Pull requests by [@SrkianFardin25](https://github.com/SrkianFardin25) to other people's repositories. Updated automatically every day. Last updated: 25 Nov 2026.
 
-**31** pull requests · **9** merged · **17** open · **29** repos · **1053k** stars on those repos
+**32** pull requests · **12** merged · **14** open · **30** repos · **1096k** stars on those repos
 
 ## Repos
 
 | Repo | Language | Stars | PRs | Merged | Open |
 |---|---|---|---|---|---|
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | ★ 146k | [1](https://github.com/Graphify-Labs/graphify/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 0 |
-| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | ★ 81.2k | [1](https://github.com/abi/screenshot-to-code/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | TypeScript | ★ 80.8k | [1](https://github.com/hoppscotch/hoppscotch/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | ★ 72.7k | [1](https://github.com/remotion-dev/remotion/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | ★ 68.8k | [2](https://github.com/Alishahryar1/free-claude-code/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | JavaScript | ★ 67.8k | [1](https://github.com/chartjs/Chart.js/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | ★ 58.5k | [1](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | Go | ★ 55.8k | [1](https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [pixijs/pixijs](https://github.com/pixijs/pixijs) | TypeScript | ★ 48.7k | [1](https://github.com/pixijs/pixijs/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | ★ 46.7k | [1](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | ★ 43.2k | [1](https://github.com/Crosstalk-Solutions/project-nomad/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | TypeScript | ★ 41.0k | [1](https://github.com/vuetifyjs/vuetify/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [videojs/video.js](https://github.com/videojs/video.js) | TypeScript | ★ 40.2k | [1](https://github.com/videojs/video.js/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ★ 29.2k | [2](https://github.com/storytold/craft-anything/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | Python | ★ 29.0k | [1](https://github.com/reflex-dev/reflex/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | ★ 22.4k | [1](https://github.com/vercel-labs/agent-desktop/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | TypeScript | ★ 21.3k | [1](https://github.com/xtermjs/xterm.js/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | Go | ★ 16.2k | [1](https://github.com/Billionmail/BillionMail/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [puckeditor/puck](https://github.com/puckeditor/puck) | TypeScript | ★ 13.7k | [1](https://github.com/puckeditor/puck/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [vega/vega](https://github.com/vega/vega) | JavaScript | ★ 12.0k | [1](https://github.com/vega/vega/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | ★ 11.8k | [1](https://github.com/is-a-dev/register/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 0 |
-| [spyder-ide/spyder](https://github.com/spyder-ide/spyder) | Python | ★ 9.4k | [1](https://github.com/spyder-ide/spyder/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | ★ 8.2k | [1](https://github.com/JetBrains/thinkrail/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | ★ 7.4k | [1](https://github.com/beenuar/AiSOC/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | JavaScript | ★ 6.6k | [1](https://github.com/crocodilestick/Calibre-Web-Automated/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 1 |
-| [code-charity/youtube](https://github.com/code-charity/youtube) | JavaScript | ★ 4.7k | [1](https://github.com/code-charity/youtube/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Python | ★ 4.4k | [1](https://github.com/morpheus65535/bazarr/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | TypeScript | ★ 3.8k | [1](https://github.com/lingdojo/kana-dojo/pulls?q=is%3Apr+author%3AFardin7798) | 1 | 0 |
-| [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) | TypeScript | ★ 1.0k | [1](https://github.com/yamada-ui/yamada-ui/pulls?q=is%3Apr+author%3AFardin7798) | 0 | 0 |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | ★ 153k | [1](https://github.com/Graphify-Labs/graphify/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 0 |
+| [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | ★ 81.4k | [1](https://github.com/abi/screenshot-to-code/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | TypeScript | ★ 81.0k | [1](https://github.com/hoppscotch/hoppscotch/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | TypeScript | ★ 75.7k | [1](https://github.com/remotion-dev/remotion/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | ★ 73.2k | [2](https://github.com/Alishahryar1/free-claude-code/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | JavaScript | ★ 67.8k | [1](https://github.com/chartjs/Chart.js/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | ★ 62.7k | [1](https://github.com/HKUDS/DeepTutor/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | Go | ★ 57.9k | [1](https://github.com/multica-ai/multica/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [pixijs/pixijs](https://github.com/pixijs/pixijs) | TypeScript | ★ 48.9k | [1](https://github.com/pixijs/pixijs/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | ★ 47.5k | [1](https://github.com/AstrBotDevs/AstrBot/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | ★ 44.4k | [1](https://github.com/Crosstalk-Solutions/project-nomad/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ★ 43.3k | [2](https://github.com/storytold/craft-anything/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | TypeScript | ★ 41.0k | [1](https://github.com/vuetifyjs/vuetify/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [videojs/video.js](https://github.com/videojs/video.js) | TypeScript | ★ 40.3k | [1](https://github.com/videojs/video.js/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | Python | ★ 29.0k | [1](https://github.com/reflex-dev/reflex/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 0 |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | ★ 26.6k | [1](https://github.com/vercel-labs/agent-desktop/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | TypeScript | ★ 21.4k | [1](https://github.com/xtermjs/xterm.js/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | Go | ★ 16.5k | [1](https://github.com/Billionmail/BillionMail/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | TypeScript | ★ 13.8k | [1](https://github.com/puckeditor/puck/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [vega/vega](https://github.com/vega/vega) | JavaScript | ★ 12.1k | [1](https://github.com/vega/vega/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | ★ 11.9k | [1](https://github.com/is-a-dev/register/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 0 |
+| [spyder-ide/spyder](https://github.com/spyder-ide/spyder) | Python | ★ 9.4k | [1](https://github.com/spyder-ide/spyder/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | ★ 8.4k | [1](https://github.com/JetBrains/thinkrail/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | ★ 7.9k | [1](https://github.com/beenuar/AiSOC/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | JavaScript | ★ 6.7k | [1](https://github.com/crocodilestick/Calibre-Web-Automated/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
+| [code-charity/youtube](https://github.com/code-charity/youtube) | JavaScript | ★ 4.7k | [1](https://github.com/code-charity/youtube/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Python | ★ 4.5k | [1](https://github.com/morpheus65535/bazarr/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | TypeScript | ★ 3.9k | [1](https://github.com/lingdojo/kana-dojo/pulls?q=is%3Apr+author%3ASrkianFardin25) | 1 | 0 |
+| [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) | TypeScript | ★ 1.0k | [1](https://github.com/yamada-ui/yamada-ui/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 0 |
+| [ashhal-kaleem/ai-derm-assistant](https://github.com/ashhal-kaleem/ai-derm-assistant) | Python | ★ 0 | [1](https://github.com/ashhal-kaleem/ai-derm-assistant/pulls?q=is%3Apr+author%3ASrkianFardin25) | 0 | 1 |
 
 ## Pull requests
 
 | Status | Pull request | Type | Repo | Date |
 |---|---|---|---|---|
-| 🟢 Open | [fix(google-cast): unload the receiver when the source is cleared](https://github.com/videojs/video.js/pull/9726) #9726 | Fix | [videojs/video.js](https://github.com/videojs/video.js) | 7 Nov 2026 |
+| 🟢 Open | [feat(model): replace legacy model with v3 three-model ensemble](https://github.com/ashhal-kaleem/ai-derm-assistant/pull/18) #18 | Feature | [ashhal-kaleem/ai-derm-assistant](https://github.com/ashhal-kaleem/ai-derm-assistant) | 21 Nov 2026 |
+| 🟣 Merged | [fix(google-cast): unload the receiver when the source is cleared](https://github.com/videojs/video.js/pull/9726) #9726 | Fix | [videojs/video.js](https://github.com/videojs/video.js) | 7 Nov 2026 |
 | 🟢 Open | [fix(vega-label): mark placed labels in the inside-anchor bitmap](https://github.com/vega/vega/pull/4386) #4386 | Fix | [vega/vega](https://github.com/vega/vega) | 7 Nov 2026 |
-| 🟢 Open | [fix: handle document pointer targets while dragging in Firefox](https://github.com/puckeditor/puck/pull/1903) #1903 | Fix | [puckeditor/puck](https://github.com/puckeditor/puck) | 7 Nov 2026 |
+| 🟣 Merged | [fix: handle document pointer targets while dragging in Firefox](https://github.com/puckeditor/puck/pull/1903) #1903 | Fix | [puckeditor/puck](https://github.com/puckeditor/puck) | 7 Nov 2026 |
 | 🟢 Open | [Keep hovered link when unrelated rows re-render](https://github.com/xtermjs/xterm.js/pull/6301) #6301 | Fix | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 7 Nov 2026 |
 | 🟢 Open | [fix(agent): keep object type and properties when Gemini schema has anyOf](https://github.com/AstrBotDevs/AstrBot/pull/11030) #11030 | Fix | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 7 Nov 2026 |
 | 🟣 Merged | [Fixed OpenAI-compatible translator failing with HTTP 400 on endpoints that reject chat_template_kwargs](https://github.com/morpheus65535/bazarr/pull/3711) #3711 | – | [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | 6 Nov 2026 |
 | 🟢 Open | [fix: refresh a container's subtree when cacheAsTexture is turned off](https://github.com/pixijs/pixijs/pull/12367) #12367 | Fix | [pixijs/pixijs](https://github.com/pixijs/pixijs) | 6 Nov 2026 |
 | 🟢 Open | [fix(ingest): keep ProcessLock exclusive when a contender fails](https://github.com/crocodilestick/Calibre-Web-Automated/pull/1659) #1659 | Fix | [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | 6 Nov 2026 |
 | ⚪ Closed | [fix(extract): make ambiguous Python import placeholder ids independent of the checkout path](https://github.com/Graphify-Labs/graphify/pull/5045) #5045 | Fix | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 6 Nov 2026 |
-| 🟢 Open | [fix: align inner tick labels inwards on reversed linear axes](https://github.com/chartjs/Chart.js/pull/12379) #12379 | Fix | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 6 Nov 2026 |
+| 🟣 Merged | [fix: align inner tick labels inwards on reversed linear axes](https://github.com/chartjs/Chart.js/pull/12379) #12379 | Fix | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 6 Nov 2026 |
 | 🟣 Merged | [PR: Restore Go to line item in the Search menu (Editor)](https://github.com/spyder-ide/spyder/pull/26499) #26499 | – | [spyder-ide/spyder](https://github.com/spyder-ide/spyder) | 5 Nov 2026 |
-| 🟢 Open | [fix: handle the complete upload response once it loads](https://github.com/reflex-dev/reflex/pull/7744) #7744 | Fix | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 5 Nov 2026 |
+| ⚪ Closed | [fix: handle the complete upload response once it loads](https://github.com/reflex-dev/reflex/pull/7744) #7744 | Fix | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 5 Nov 2026 |
 | 🟣 Merged | [fix(VVideo): fall back to native video fullscreen on iPhone](https://github.com/vuetifyjs/vuetify/pull/23357) #23357 | Fix | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 5 Nov 2026 |
 | 🟢 Open | [fix(common): avoid trailing zero bytes when decoding `base64`](https://github.com/hoppscotch/hoppscotch/pull/6777) #6777 | Fix | [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 5 Nov 2026 |
 | 🟢 Open | [fix(llm): force temperature 1.0 for gpt-6 and fall back when reasoning_effort rejects tools](https://github.com/HKUDS/DeepTutor/pull/2446) #2446 | Fix | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 5 Nov 2026 |
@@ -74,4 +76,4 @@ Pull requests by [@Fardin7798](https://github.com/Fardin7798) to other people's 
 | 🟢 Open | [feat(preview): add browser-chrome and phone-bezel frames to previews](https://github.com/abi/screenshot-to-code/pull/627) #627 | Feature | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | 30 Aug 2026 |
 | ⚪ Closed | [Add 0000radia.json with domain owner and records](https://github.com/is-a-dev/register/pull/42779) #42779 | Feature | [is-a-dev/register](https://github.com/is-a-dev/register) | 6 Jul 2026 |
 
-[← Back to profile](https://github.com/Fardin7798)
+[← Back to profile](https://github.com/SrkianFardin25)
